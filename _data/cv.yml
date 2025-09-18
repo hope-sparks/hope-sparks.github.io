@@ -39,9 +39,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://ldbase.org/projects/e040e2b7-fcaf-4f15-a51c-906e304ae7ce">al-folio</a>
+    - title: <a href="https://ldbase.org/projects/e040e2b7-fcaf-4f15-a51c-906e304ae7ce">Speech and Language in Nonsydromic Cleft Lip and/or Palate</a>
       year: 2016 - 2023
-      description: A meta-analysis on speech, language, and reading skills in young children with nonsyndromic cleft lip and/or palate.
+      description: Open sharing of code, data, and research protocols for a meta-analysis project on speech, language, and reading skills in young children with nonsyndromic cleft lip and/or palate.
 
 - title: Honors and Awards
   type: time_table
