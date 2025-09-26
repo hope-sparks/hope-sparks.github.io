@@ -46,14 +46,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019
+    - year: 1921
       items:
-        - Helmsley Scholarship
-    - year: 2014
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - Research-Mentor Pair Travel Award
-        - NIH Travel Award to Symposium on Research in Child Language Disorders
-
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
