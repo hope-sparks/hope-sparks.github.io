@@ -43,16 +43,21 @@
       year: 2016 - 2023
       description: Open sharing of code, data, and research protocols for a meta-analysis project on speech, language, and reading skills in young children with nonsyndromic cleft lip and/or palate.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+#
+# David 08Oct2025 Comment-out this content to prevent it appearing on public-facing site
+# but retain the text as an example for future use!
+#
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+#
 
 - title: Academic Interests
   type: nested_list
