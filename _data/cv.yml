@@ -50,9 +50,13 @@
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
+<<<<<<< HEAD
     - year: 2029
       items:
         - Max Planck Medal
+=======
+
+>>>>>>> parent of fc7ed85 (Update cv.yml)
 
 - title: Academic Interests
   type: nested_list
