@@ -6,10 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hope
 middle_name: S
 last_name: Lancaster
+email: hope.lancaster@boystown.org
 contact_note: >
   Send me an email if you have a question or want to connect.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hope Lancaster's research website. Research Scientist at Boys Town National Research Hospital studying the connections between speech, language, and reading across the lifespan.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,7 +21,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://hope-sparks.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -171,7 +172,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -192,14 +193,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
-  - _pages/blog.md
-  - _posts/
-  - _news/
-  - _includes/news.liquid
-  - _pages/repositories.md
-  - _includes/repository/
-  - _projects/
 keep_files:
   - CNAME
   - .nojekyll
