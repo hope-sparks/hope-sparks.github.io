@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
+subtitle: <a href='https://www.boystownresearch.org/'>Boys Town Research</a>. 
 
 profile:
   align: right
@@ -13,20 +13,11 @@ profile:
     <p>555 N 30th St</p>
     <p>Omaha, NE 68131</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+nav_order: 1
 ---
 
-To be written - just you wait!
+I am a Research Scientist at <a href="https://www.boystownresearch.org/centers-and-institutes/center-for-childhood-deafness-language-and-learning">Center for Childhood Deafness Language and Learning</a> at Boys Town National Resarch Hospital. I lead the <a href="https://www.boystownresearch.org/labs/etiologies-of-language-and-literacy">Etiologies of Language and Literacy Lab</a>.
 
-Working on updating my `_bibliography/papers.bib` file for rendering on the [publications page](/al-folio/publications/) automatically.
+I study how speech, language, and, reading skills are connected behaviorally and genetically across the lifespan in multiple populations, including typical language development, Developmental Language Disorder, cleft palate with and without cleft lip, and Dyslexia. I use multiple methods including big data and meta-analyses. My recent work is developing a set of unsupervised remote data collection tools to measure speech, language, and reading skills in adults.
