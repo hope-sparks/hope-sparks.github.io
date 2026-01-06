@@ -1,0 +1,3 @@
+Alicia Buttner is the Manager of the Etiologies of Language and Literacy Lab. She earned her M.A. and Ph.D. in Psychology, with a specialization in Neuroscience and Behavior, from the University of Nebraska at Omaha. Before joining Boys Town in 2023, her research and professional work centered on canine behavior and human–animal interactions. In her current role, she oversees daily lab operations, coordinates project development and execution, organizes research activities, and contributes to the development of manuscripts and grant proposals aimed at advancing understanding of language and literacy across the lifespan.
+
+Favorite book: And Then There Were None
