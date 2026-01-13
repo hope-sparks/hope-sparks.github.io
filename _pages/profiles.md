@@ -18,11 +18,7 @@ profiles:
     content: bio_alicia.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: prof_pic.jpg
     content: bio_chloe.md
-    image_circular: true # crops the image to make it circular
   - align: left
-    image: prof_pic.jpg
     content: bio_presley.md
-    image_circular: true # crops the image to make it circular
 ---
