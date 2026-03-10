@@ -4,7 +4,7 @@ title: ReAL‑E (Remote Adult Language – Experiment)
 description: A friendly, at‑home way to study adult speech, language, and reading—built for accessibility, scale, and modern research.
 img: assets/img/real-e/cover.jpg
 importance: 1
-category: work
+category: ongoing
 related_publications: true
 ---
 
