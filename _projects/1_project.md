@@ -38,8 +38,10 @@ Early pilot testing showed healthy variability and sensible ranges across tasks 
     {% include figure.liquid path="assets/img/real-e/fig-ux-metrics.jpg" title="Early performance snapshots from pilot testing" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+<div class="caption">
+    *Note.* DDK timing was referenced to classic time‑by‑count norms (Fletcher, 1972), while reading/language tasks used percent accuracy. We revised instructions (e.g., “repeat steadily”) and item sets based on user feedback. 
+</div>
 
-*Note.* DDK timing was referenced to classic time‑by‑count norms (Fletcher, 1972), while reading/language tasks used percent accuracy. We revised instructions (e.g., “repeat steadily”) and item sets based on user feedback. 
 
 ---
 
