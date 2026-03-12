@@ -96,12 +96,12 @@ ReAL‑E is a collaboration across research, clinical, and technical teams, with
 
 **Do Self-Reported Language and Reading Skills Predict Performance on Remote Behavioral Tasks in Adults?**
 Strait, Buttner, & Lancaster - Research Assisstant Flash Talks December 2025.
-[Download the slides (PDF)](/assets/docs/real-e/ra_flash_talks_2025.pdf)
+[Download the slides (PDF)](/assets/pdf/ra_flash_talks_2025.pdf)
 
 **Impact of Headphone Quality on Remotely Delivered Repetition Tasks**  
 Parks, Buttner, Fitzgerald, Bashford, & Lancaster — Conference poster March 2024. 
-[Download the poster (PDF)](/assets/docs/real-e/lancaster_2024_postdoc_symp.pdf)
+[Download the poster (PDF)](/assets/pdf/lancaster_2024_postdoc_symp.pdf)
 
 **Associations Between Speech and Language Performance in Adults**  
 Lancaster, Farzana, Parks, Fitzpatrick, Buttner, Bashford, & Parde — Conference poster November 2023.
-[Download the poster (PDF)](/assets/docs/real-e/Lancaster2023_NSLHA.pdf)
+[Download the poster (PDF)](/assets/pdf/Lancaster2023_NSLHA.pdf)
