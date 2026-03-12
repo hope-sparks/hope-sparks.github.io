@@ -28,7 +28,7 @@ ReAL‑E currently includes:
 - **Word definitions** and **Following directions** — language tasks  
 - **Irregular word spelling** and **Timed nonword reading**  — quick reading tasks
 
-Early pilot testing showed healthy variability and sensible ranges across tasks (e.g., Real‑word repetition mean ≈ 81.9% ± 11.3; Nonword repetition mean ≈ 42.8% ± 15.9; Following directions mean ≈ 67.5% ± 16.1). These insights guided wording, timing, and interface tweaks. 
+Early pilot testing showed healthy variability and sensible ranges across tasks (e.g., Real‑word repetition mean ≈ 92.33% ± 6.97; Irregular word spelling mean ≈ 78.00% ± 16.07; Following directions mean ≈ 77.86% ± 9.59) {% cite lancaster2025enhancing %}. These insights guided wording, timing, and interface tweaks. 
 
 <div class="row">
   <div class="col-lg-8">
