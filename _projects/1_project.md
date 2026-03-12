@@ -23,25 +23,10 @@ Traditional, in‑person testing takes time, space, travel, and staff—barriers
 
 ## What participants do
 ReAL‑E currently includes:
-- **Syllable repetition (DDK)** — a quick speech‑motor task  
-- **Real‑word repetition** and **Nonword repetition** — listening + speaking tasks  
-- **Word definitions** and **Following directions** — language tasks  
-- **Irregular word spelling** and **Timed nonword reading**  — quick reading tasks
+- **Speech-motor tasks:** Syllable repetition (DDK), Real‑word repetition, and Nonword repetition 
+- **Oral and Written Language tasks:** Irregular word spelling, Word definitions, Timed nonword reading, and Following directions
 
-Early pilot testing showed healthy variability and sensible ranges across tasks (e.g., Real‑word repetition mean ≈ 92.33% ± 6.97; Irregular word spelling mean ≈ 78.00% ± 16.07; Following directions mean ≈ 77.86% ± 9.59) {% cite lancaster2025enhancing %}. These insights guided wording, timing, and interface tweaks. 
-
-<div class="row">
-  <div class="col-lg-8">
     {% include figure.liquid path="assets/img/real-e/fig-tasks-grid.jpg" title="A peek at the task battery" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-lg-4">
-    {% include figure.liquid path="assets/img/real-e/fig-ux-metrics.jpg" title="Early performance snapshots from pilot testing" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-    *Note.* DDK timing was referenced to classic time‑by‑count norms (Fletcher, 1972), while reading/language tasks used percent accuracy. We revised instructions (e.g., “repeat steadily”) and item sets based on user feedback. 
-</div>
-
 
 ---
 
@@ -52,16 +37,19 @@ We identified tasks from the literature, adapted them for web delivery, and aske
 
 **Expert feedback.** On a 5‑point scale across multiple criteria, experts gave supportive scores for several tasks (e.g., syllable repetition, nonword repetition, spelling) and flagged “following directions” as an area to improve. Overall averages: ~**3.29** (Adaptation), **3.48** (Effectiveness), **3.76** (Face validity).
 
+{% include figure.liquid path="assets/img/real-e/fig-expert-scores.jpg" title="Expert rating highlights" class="img-fluid rounded z-depth-1" %}
+
 **User feedback.** People called the experience “interesting” and “kinda fun,” and asked for clearer navigation, a shorter “following directions” task, and more flexible typing (backspace in spelling). We also noted strong interest in mobile access. 
 
-<div class="row">
-  <div class="col-lg-4">
-    {% include figure.liquid path="assets/img/real-e/fig-expert-scores.jpg" title="Expert rating highlights" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-lg-8">
-    {% include figure.liquid path="assets/img/real-e/fig-user-feedback.jpg" title="What users told us" class="img-fluid rounded z-depth-1" %}
-  </div>
+{% include figure.liquid path="assets/img/real-e/fig-user-feedback.jpg" title="What users told us" class="img-fluid rounded z-depth-1" %}
+
+**Early pilot results.** Early pilot testing showed healthy variability and sensible ranges across tasks (e.g., Real‑word repetition mean ≈ 92.33% ± 6.97; Irregular word spelling mean ≈ 78.00% ± 16.07; Following directions mean ≈ 77.86% ± 9.59) {% cite lancaster2025enhancing %}. These insights guided wording, timing, and interface tweaks. 
+
+{% include figure.liquid path="assets/img/real-e/fig-ux-metrics.jpg" title="Early performance snapshots from pilot testing" class="img-fluid rounded z-depth-1" %}
+<div class="caption">
+    *Note.* DDK timing was referenced to classic time‑by‑count norms (Fletcher, 1972), while reading/language tasks used percent accuracy. We revised instructions (e.g., “repeat steadily”) and item sets based on user feedback. 
 </div>
+
 
 ---
 
