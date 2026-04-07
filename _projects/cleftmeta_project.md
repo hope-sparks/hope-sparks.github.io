@@ -99,7 +99,7 @@ We coded several **moderators**, or factors that could influence results across 
 
 ### Delays in speech
 
-Across studies, young children with NSCP/L showed **large and persistent delays in speech development** compared to children without clefts{% cite lancaster_early_2020 %}. On average, children with NSCP/L had:
+Across studies, young children with NSCP/L showed **large and persistent delays in speech development** compared to children without clefts {% cite lancaster_early_2020 %}. On average, children with NSCP/L had:
 
 - **smaller consonant inventories**  
 - **lower speech accuracy**  
@@ -139,7 +139,9 @@ Together, these meta-analyses show that children with NSCP/L are **at increased 
 
 ## Access our data
 
-All project materials and extracted data are openly available through our LDbase project<https://ldbase.org/projects/e040e2b7-fcaf-4f15-a51c-906e304ae7ce>
+All project materials and extracted data are openly available through our LDbase project 
+
+<https://ldbase.org/projects/e040e2b7-fcaf-4f15-a51c-906e304ae7ce>
 
 ---
 
