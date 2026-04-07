@@ -43,7 +43,7 @@ Studies that met criteria were included in one or more of our meta-analyses depe
 
 {% include figure.liquid loading="eager" path="assets/img/cleftmeta/fig-flowchart.jpg" title="PRISMA flow chart of study search and inclusion" %}
 <div class="caption">
-    *Note.* This search flowchart represents the search strategy for Lancaster and colleagues (2020){% cite lancaster_early_2020 %}, which is considered the primary paper and search. We updated the search for Lancaster et al (2021){% cite lancaster_reading_2021 %} and Lien et al (2024) {% cite lien_meta-analysis_2024 %}. However, the flow of the search strategy remained the same.
+    *Note.* This search flowchart represents the search strategy for Lancaster and colleagues {% cite lancaster_early_2020 %}, which is considered the primary paper and search. We updated the search for our reading {% cite lancaster_reading_2021 %} and correlational {% cite lien_meta-analysis_2024 %} papers. However, the flow of the search strategy remained the same.
 </div>
 ---
 
@@ -109,11 +109,11 @@ Speech differences were evident from toddlerhood through early school age.
 
 ### Delays in language
 
-Children with NSCP/L also demonstrated **moderate delays in expressive and receptive language**{% cite lancaster_early_2020 %}. Expressive language differences tended to **decrease with age**, especially when language was measured using standardized tests. However, receptive language differences remained more consistent over time.
+Children with NSCP/L also demonstrated **moderate delays in expressive and receptive language** {% cite lancaster_early_2020 %}. Expressive language differences tended to **decrease with age**, especially when language was measured using standardized tests. However, receptive language differences remained more consistent over time.
 
 ### Delays in reading
 
-School-age children with NSCP/L showed **subtle but meaningful weaknesses in reading** compared to peers{% cite lancaster_reading_2021 %}, particularly in:
+School-age children with NSCP/L showed **subtle but meaningful weaknesses in reading** compared to peers {% cite lancaster_reading_2021 %}, particularly in:
 
 - **pre-reading skills**, such as phonological awareness  
 - **word decoding skills**  
@@ -127,7 +127,7 @@ These findings suggest that early speech and language differences may place some
 
 ### A meaningful link between speech and language
 
-We found a **moderate-to-strong relationship between early speech sound development and expressive language**, especially vocabulary{% cite lien_meta-analysis_2024 %}. Children with larger consonant inventories tended to have larger vocabularies. This suggests that early speech skills may serve as an important **marker of language risk** in children with NSCP/L.
+We found a **moderate-to-strong relationship between early speech sound development and expressive language**, especially vocabulary {% cite lien_meta-analysis_2024 %}. Children with larger consonant inventories tended to have larger vocabularies. This suggests that early speech skills may serve as an important **marker of language risk** in children with NSCP/L.
 
 ---
 
@@ -139,9 +139,7 @@ Together, these meta-analyses show that children with NSCP/L are **at increased 
 
 ## Access our data
 
-All project materials and extracted data are openly available through our LDbase project:
-
-https://ldbase.org/projects/e040e2b7-fcaf-4f15-a51c-906e304ae7ce
+All project materials and extracted data are openly available through our LDbase project<https://ldbase.org/projects/e040e2b7-fcaf-4f15-a51c-906e304ae7ce>
 
 ---
 
