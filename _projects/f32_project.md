@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Predictors of Reading (Dis)Ability
-description: 
+description: A set of studies aimed at developing an analytic pipeline for understanding the genetic and environmental contributions to reading ability and disablity.
 img: assets/img/f32/f32.png
 importance: 1
 category: completed
@@ -149,7 +149,7 @@ Using a latent phenotype:
   - **~62 SNPs (SNP-only model)**  
   - **~96 SNPs (combined model)** 
 
-➡️ Insight: Reading ability reflects **many small genetic effects**, not monogenic origins {% cite Lancaster_identifying_2020 %}.
+➡️ Insight: Reading ability reflects **many small genetic effects**, not monogenic origins {% cite lancaster_identifying_2020 %}.
 
 ---
 
@@ -164,7 +164,7 @@ Important positive predictors included:
 - Receptive language (r ≈ .29)  
 - Mother’s education (r ≈ .25) 
 
-➡️ Insight: **Behavioral and environmental factors are essential**, not optional {% cite Lancaster_identifying_2020 %}.
+➡️ Insight: **Behavioral and environmental factors are essential**, not optional {% cite lancaster_identifying_2020 %}.
 
 ---
 
@@ -176,7 +176,7 @@ We found enrichment in pathways related to:
 - Synaptic and postsynaptic structures  
 - Learning and memory processes  
 
-➡️ Reading ability emerges from **interconnected neural systems** {% cite Lancaster_identifying_2020 %}.
+➡️ Reading ability emerges from **interconnected neural systems** {% cite lancaster_identifying_2020 %}.
 
 ---
 
